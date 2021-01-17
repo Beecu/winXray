@@ -1,0 +1,5 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
+description="发布v3.1, 支持 V2Ray / Xray Core 一键切换。";
+outputDir="/release/update/"
+}
